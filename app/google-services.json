@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "960062769052",
+    "firebase_url": "https://major-project-try-default-rtdb.firebaseio.com",
+    "project_id": "major-project-try",
+    "storage_bucket": "major-project-try.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960062769052:android:e69fcda38ec908aed2aa59",
+        "android_client_info": {
+          "package_name": "com.example.majorprojecttry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0hxIcyiWArB1crWrmXUpenf0wGiFnvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960062769052:android:711e1a1440b6c89dd2aa59",
+        "android_client_info": {
+          "package_name": "com.siddhesh.majorproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0hxIcyiWArB1crWrmXUpenf0wGiFnvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
